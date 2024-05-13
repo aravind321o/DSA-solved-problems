@@ -1,2 +1,2 @@
 # DSA-solved-problems
-solved problems of data structures and algorithm across platforms
+solved problems of data structures and algorithms across many coding platforms
