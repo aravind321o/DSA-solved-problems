@@ -11,6 +11,7 @@ solved problems of data structures and algorithms across many coding platforms
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aravind321o/DSA-solved-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/aravind321o/DSA-solved-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,4 +24,16 @@ solved problems of data structures and algorithms across many coding platforms
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aravind321o/DSA-solved-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/aravind321o/DSA-solved-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+## Union Find
+|  |
+| ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/aravind321o/DSA-solved-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+## Graph
+|  |
+| ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/aravind321o/DSA-solved-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
