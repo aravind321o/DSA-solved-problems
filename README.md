@@ -8,6 +8,7 @@ solved problems of data structures and algorithms across many coding platforms
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aravind321o/DSA-solved-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1325-path-with-maximum-probability](https://github.com/aravind321o/DSA-solved-problems/tree/master/1325-path-with-maximum-probability) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/aravind321o/DSA-solved-problems/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,4 +50,12 @@ solved problems of data structures and algorithms across many coding platforms
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/aravind321o/DSA-solved-problems/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/aravind321o/DSA-solved-problems/tree/master/2803-modify-graph-edge-weights) |
+## Matrix
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/aravind321o/DSA-solved-problems/tree/master/2132-convert-1d-array-into-2d-array) |
+## Simulation
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/aravind321o/DSA-solved-problems/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
