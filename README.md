@@ -9,6 +9,7 @@ solved problems of data structures and algorithms across many coding platforms
 | [0001-two-sum](https://github.com/aravind321o/DSA-solved-problems/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/aravind321o/DSA-solved-problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aravind321o/DSA-solved-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aravind321o/DSA-solved-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0283-move-zeroes](https://github.com/aravind321o/DSA-solved-problems/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aravind321o/DSA-solved-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1325-path-with-maximum-probability](https://github.com/aravind321o/DSA-solved-problems/tree/master/1325-path-with-maximum-probability) |
@@ -78,8 +79,13 @@ solved problems of data structures and algorithms across many coding platforms
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aravind321o/DSA-solved-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aravind321o/DSA-solved-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## String
 |  |
 | ------- |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/aravind321o/DSA-solved-problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aravind321o/DSA-solved-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
