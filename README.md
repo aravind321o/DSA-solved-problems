@@ -12,6 +12,7 @@ solved problems of data structures and algorithms across many coding platforms
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aravind321o/DSA-solved-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0283-move-zeroes](https://github.com/aravind321o/DSA-solved-problems/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aravind321o/DSA-solved-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0724-find-pivot-index](https://github.com/aravind321o/DSA-solved-problems/tree/master/0724-find-pivot-index) |
 | [1325-path-with-maximum-probability](https://github.com/aravind321o/DSA-solved-problems/tree/master/1325-path-with-maximum-probability) |
 | [1603-running-sum-of-1d-array](https://github.com/aravind321o/DSA-solved-problems/tree/master/1603-running-sum-of-1d-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aravind321o/DSA-solved-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -75,6 +76,7 @@ solved problems of data structures and algorithms across many coding platforms
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/aravind321o/DSA-solved-problems/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/aravind321o/DSA-solved-problems/tree/master/1603-running-sum-of-1d-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aravind321o/DSA-solved-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Dynamic Programming
