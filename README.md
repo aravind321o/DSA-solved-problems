@@ -7,6 +7,7 @@ solved problems of data structures and algorithms across many coding platforms
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aravind321o/DSA-solved-problems/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/aravind321o/DSA-solved-problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aravind321o/DSA-solved-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aravind321o/DSA-solved-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1325-path-with-maximum-probability](https://github.com/aravind321o/DSA-solved-problems/tree/master/1325-path-with-maximum-probability) |
@@ -21,6 +22,7 @@ solved problems of data structures and algorithms across many coding platforms
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/aravind321o/DSA-solved-problems/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aravind321o/DSA-solved-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
@@ -30,6 +32,7 @@ solved problems of data structures and algorithms across many coding platforms
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/aravind321o/DSA-solved-problems/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aravind321o/DSA-solved-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Depth-First Search
 |  |
