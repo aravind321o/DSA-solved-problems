@@ -10,6 +10,7 @@ solved problems of data structures and algorithms across many coding platforms
 | [0088-merge-sorted-array](https://github.com/aravind321o/DSA-solved-problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aravind321o/DSA-solved-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aravind321o/DSA-solved-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0169-majority-element](https://github.com/aravind321o/DSA-solved-problems/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/aravind321o/DSA-solved-problems/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aravind321o/DSA-solved-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0724-find-pivot-index](https://github.com/aravind321o/DSA-solved-problems/tree/master/0724-find-pivot-index) |
@@ -21,6 +22,7 @@ solved problems of data structures and algorithms across many coding platforms
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aravind321o/DSA-solved-problems/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/aravind321o/DSA-solved-problems/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aravind321o/DSA-solved-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/aravind321o/DSA-solved-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Two Pointers
@@ -38,6 +40,7 @@ solved problems of data structures and algorithms across many coding platforms
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aravind321o/DSA-solved-problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/aravind321o/DSA-solved-problems/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aravind321o/DSA-solved-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Depth-First Search
 |  |
@@ -92,4 +95,12 @@ solved problems of data structures and algorithms across many coding platforms
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aravind321o/DSA-solved-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aravind321o/DSA-solved-problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aravind321o/DSA-solved-problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
