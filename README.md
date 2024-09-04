@@ -14,6 +14,7 @@ solved problems of data structures and algorithms across many coding platforms
 | [0283-move-zeroes](https://github.com/aravind321o/DSA-solved-problems/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aravind321o/DSA-solved-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0724-find-pivot-index](https://github.com/aravind321o/DSA-solved-problems/tree/master/0724-find-pivot-index) |
+| [0906-walking-robot-simulation](https://github.com/aravind321o/DSA-solved-problems/tree/master/0906-walking-robot-simulation) |
 | [1325-path-with-maximum-probability](https://github.com/aravind321o/DSA-solved-problems/tree/master/1325-path-with-maximum-probability) |
 | [1603-running-sum-of-1d-array](https://github.com/aravind321o/DSA-solved-problems/tree/master/1603-running-sum-of-1d-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aravind321o/DSA-solved-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -24,6 +25,7 @@ solved problems of data structures and algorithms across many coding platforms
 | [0001-two-sum](https://github.com/aravind321o/DSA-solved-problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/aravind321o/DSA-solved-problems/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aravind321o/DSA-solved-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0906-walking-robot-simulation](https://github.com/aravind321o/DSA-solved-problems/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/aravind321o/DSA-solved-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Two Pointers
 |  |
@@ -73,6 +75,7 @@ solved problems of data structures and algorithms across many coding platforms
 ## Simulation
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/aravind321o/DSA-solved-problems/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aravind321o/DSA-solved-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/aravind321o/DSA-solved-problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/aravind321o/DSA-solved-problems/tree/master/2132-convert-1d-array-into-2d-array) |
