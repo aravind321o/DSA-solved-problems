@@ -8,6 +8,7 @@ solved problems of data structures and algorithms across many coding platforms
 | ------- |
 | [0001-two-sum](https://github.com/aravind321o/DSA-solved-problems/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/aravind321o/DSA-solved-problems/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/aravind321o/DSA-solved-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aravind321o/DSA-solved-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aravind321o/DSA-solved-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/aravind321o/DSA-solved-problems/tree/master/0169-majority-element) |
@@ -91,6 +92,7 @@ solved problems of data structures and algorithms across many coding platforms
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/aravind321o/DSA-solved-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aravind321o/DSA-solved-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aravind321o/DSA-solved-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## String
