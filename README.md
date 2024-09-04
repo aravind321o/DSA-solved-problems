@@ -15,6 +15,7 @@ solved problems of data structures and algorithms across many coding platforms
 | [0350-intersection-of-two-arrays-ii](https://github.com/aravind321o/DSA-solved-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0724-find-pivot-index](https://github.com/aravind321o/DSA-solved-problems/tree/master/0724-find-pivot-index) |
 | [0906-walking-robot-simulation](https://github.com/aravind321o/DSA-solved-problems/tree/master/0906-walking-robot-simulation) |
+| [1019-squares-of-a-sorted-array](https://github.com/aravind321o/DSA-solved-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1325-path-with-maximum-probability](https://github.com/aravind321o/DSA-solved-problems/tree/master/1325-path-with-maximum-probability) |
 | [1603-running-sum-of-1d-array](https://github.com/aravind321o/DSA-solved-problems/tree/master/1603-running-sum-of-1d-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aravind321o/DSA-solved-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -33,6 +34,7 @@ solved problems of data structures and algorithms across many coding platforms
 | [0088-merge-sorted-array](https://github.com/aravind321o/DSA-solved-problems/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/aravind321o/DSA-solved-problems/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aravind321o/DSA-solved-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/aravind321o/DSA-solved-problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,6 +46,7 @@ solved problems of data structures and algorithms across many coding platforms
 | [0088-merge-sorted-array](https://github.com/aravind321o/DSA-solved-problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/aravind321o/DSA-solved-problems/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aravind321o/DSA-solved-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/aravind321o/DSA-solved-problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Depth-First Search
 |  |
 | ------- |
