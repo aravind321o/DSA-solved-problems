@@ -57,6 +57,7 @@ solved problems of data structures and algorithms across many coding platforms
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/aravind321o/DSA-solved-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1484-linked-list-in-binary-tree](https://github.com/aravind321o/DSA-solved-problems/tree/master/1484-linked-list-in-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -124,5 +125,18 @@ solved problems of data structures and algorithms across many coding platforms
 ## Linked List
 |  |
 | ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/aravind321o/DSA-solved-problems/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aravind321o/DSA-solved-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Tree
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/aravind321o/DSA-solved-problems/tree/master/1484-linked-list-in-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/aravind321o/DSA-solved-problems/tree/master/1484-linked-list-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/aravind321o/DSA-solved-problems/tree/master/1484-linked-list-in-binary-tree) |
 <!---LeetCode Topics End-->
