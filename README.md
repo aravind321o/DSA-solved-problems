@@ -23,6 +23,7 @@ solved problems of data structures and algorithms across many coding platforms
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aravind321o/DSA-solved-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/aravind321o/DSA-solved-problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/aravind321o/DSA-solved-problems/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/aravind321o/DSA-solved-problems/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aravind321o/DSA-solved-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -82,6 +83,7 @@ solved problems of data structures and algorithms across many coding platforms
 |  |
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/aravind321o/DSA-solved-problems/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/aravind321o/DSA-solved-problems/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
 |  |
 | ------- |
@@ -90,6 +92,7 @@ solved problems of data structures and algorithms across many coding platforms
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/aravind321o/DSA-solved-problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/aravind321o/DSA-solved-problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/aravind321o/DSA-solved-problems/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/aravind321o/DSA-solved-problems/tree/master/2411-spiral-matrix-iv) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -127,6 +130,7 @@ solved problems of data structures and algorithms across many coding platforms
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/aravind321o/DSA-solved-problems/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/aravind321o/DSA-solved-problems/tree/master/1484-linked-list-in-binary-tree) |
+| [2411-spiral-matrix-iv](https://github.com/aravind321o/DSA-solved-problems/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aravind321o/DSA-solved-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
 |  |
