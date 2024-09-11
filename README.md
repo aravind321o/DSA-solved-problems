@@ -109,6 +109,7 @@ solved problems of data structures and algorithms across many coding platforms
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/aravind321o/DSA-solved-problems/tree/master/0014-longest-common-prefix) |
 | [0415-add-strings](https://github.com/aravind321o/DSA-solved-problems/tree/master/0415-add-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/aravind321o/DSA-solved-problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Greedy
@@ -157,4 +158,8 @@ solved problems of data structures and algorithms across many coding platforms
 |  |
 | ------- |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/aravind321o/DSA-solved-problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/aravind321o/DSA-solved-problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
