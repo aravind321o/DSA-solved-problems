@@ -1,6 +1,6 @@
 class Solution:
     def addStrings(self, num1: str, num2: str,) -> str:
-        sys.set_int_max_str_digits(50000)
+        sys.set_int_max_str_digits(48000)
         a,b=0,0
         r,s=0,0
         for i in range(len(num1)):
