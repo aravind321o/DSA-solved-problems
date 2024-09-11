@@ -41,6 +41,7 @@ solved problems of data structures and algorithms across many coding platforms
 | [0088-merge-sorted-array](https://github.com/aravind321o/DSA-solved-problems/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/aravind321o/DSA-solved-problems/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aravind321o/DSA-solved-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0680-valid-palindrome-ii](https://github.com/aravind321o/DSA-solved-problems/tree/master/0680-valid-palindrome-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/aravind321o/DSA-solved-problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -111,11 +112,13 @@ solved problems of data structures and algorithms across many coding platforms
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aravind321o/DSA-solved-problems/tree/master/0014-longest-common-prefix) |
 | [0415-add-strings](https://github.com/aravind321o/DSA-solved-problems/tree/master/0415-add-strings) |
+| [0680-valid-palindrome-ii](https://github.com/aravind321o/DSA-solved-problems/tree/master/0680-valid-palindrome-ii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/aravind321o/DSA-solved-problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aravind321o/DSA-solved-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0680-valid-palindrome-ii](https://github.com/aravind321o/DSA-solved-problems/tree/master/0680-valid-palindrome-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
