@@ -20,6 +20,7 @@ solved problems of data structures and algorithms across many coding platforms
 | [1019-squares-of-a-sorted-array](https://github.com/aravind321o/DSA-solved-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1325-path-with-maximum-probability](https://github.com/aravind321o/DSA-solved-problems/tree/master/1325-path-with-maximum-probability) |
 | [1603-running-sum-of-1d-array](https://github.com/aravind321o/DSA-solved-problems/tree/master/1603-running-sum-of-1d-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/aravind321o/DSA-solved-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aravind321o/DSA-solved-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/aravind321o/DSA-solved-problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/aravind321o/DSA-solved-problems/tree/master/2155-find-missing-observations) |
@@ -33,6 +34,7 @@ solved problems of data structures and algorithms across many coding platforms
 | [0350-intersection-of-two-arrays-ii](https://github.com/aravind321o/DSA-solved-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0906-walking-robot-simulation](https://github.com/aravind321o/DSA-solved-problems/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/aravind321o/DSA-solved-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/aravind321o/DSA-solved-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aravind321o/DSA-solved-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -115,6 +117,7 @@ solved problems of data structures and algorithms across many coding platforms
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aravind321o/DSA-solved-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0415-add-strings](https://github.com/aravind321o/DSA-solved-problems/tree/master/0415-add-strings) |
 | [0680-valid-palindrome-ii](https://github.com/aravind321o/DSA-solved-problems/tree/master/0680-valid-palindrome-ii) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/aravind321o/DSA-solved-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/aravind321o/DSA-solved-problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Greedy
 |  |
@@ -129,6 +132,7 @@ solved problems of data structures and algorithms across many coding platforms
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aravind321o/DSA-solved-problems/tree/master/0169-majority-element) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/aravind321o/DSA-solved-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Math
 |  |
 | ------- |
@@ -162,6 +166,7 @@ solved problems of data structures and algorithms across many coding platforms
 ## Bit Manipulation
 |  |
 | ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/aravind321o/DSA-solved-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/aravind321o/DSA-solved-problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Trie
 |  |
