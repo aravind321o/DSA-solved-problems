@@ -19,6 +19,7 @@ solved problems of data structures and algorithms across many coding platforms
 | [0906-walking-robot-simulation](https://github.com/aravind321o/DSA-solved-problems/tree/master/0906-walking-robot-simulation) |
 | [1019-squares-of-a-sorted-array](https://github.com/aravind321o/DSA-solved-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1325-path-with-maximum-probability](https://github.com/aravind321o/DSA-solved-problems/tree/master/1325-path-with-maximum-probability) |
+| [1435-xor-queries-of-a-subarray](https://github.com/aravind321o/DSA-solved-problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1603-running-sum-of-1d-array](https://github.com/aravind321o/DSA-solved-problems/tree/master/1603-running-sum-of-1d-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aravind321o/DSA-solved-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aravind321o/DSA-solved-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -102,6 +103,7 @@ solved problems of data structures and algorithms across many coding platforms
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/aravind321o/DSA-solved-problems/tree/master/0724-find-pivot-index) |
+| [1435-xor-queries-of-a-subarray](https://github.com/aravind321o/DSA-solved-problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1603-running-sum-of-1d-array](https://github.com/aravind321o/DSA-solved-problems/tree/master/1603-running-sum-of-1d-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aravind321o/DSA-solved-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Dynamic Programming
@@ -166,6 +168,7 @@ solved problems of data structures and algorithms across many coding platforms
 ## Bit Manipulation
 |  |
 | ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/aravind321o/DSA-solved-problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aravind321o/DSA-solved-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/aravind321o/DSA-solved-problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Trie
