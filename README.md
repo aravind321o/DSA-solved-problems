@@ -26,6 +26,7 @@ solved problems of data structures and algorithms across many coding platforms
 | [2132-convert-1d-array-into-2d-array](https://github.com/aravind321o/DSA-solved-problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/aravind321o/DSA-solved-problems/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/aravind321o/DSA-solved-problems/tree/master/2411-spiral-matrix-iv) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aravind321o/DSA-solved-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aravind321o/DSA-solved-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -171,6 +172,7 @@ solved problems of data structures and algorithms across many coding platforms
 | [1435-xor-queries-of-a-subarray](https://github.com/aravind321o/DSA-solved-problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aravind321o/DSA-solved-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/aravind321o/DSA-solved-problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aravind321o/DSA-solved-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Trie
 |  |
 | ------- |
@@ -179,4 +181,8 @@ solved problems of data structures and algorithms across many coding platforms
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aravind321o/DSA-solved-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aravind321o/DSA-solved-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
