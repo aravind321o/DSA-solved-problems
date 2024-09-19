@@ -113,11 +113,13 @@ solved problems of data structures and algorithms across many coding platforms
 | [0118-pascals-triangle](https://github.com/aravind321o/DSA-solved-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aravind321o/DSA-solved-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aravind321o/DSA-solved-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/aravind321o/DSA-solved-problems/tree/master/0241-different-ways-to-add-parentheses) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aravind321o/DSA-solved-problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aravind321o/DSA-solved-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0241-different-ways-to-add-parentheses](https://github.com/aravind321o/DSA-solved-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0415-add-strings](https://github.com/aravind321o/DSA-solved-problems/tree/master/0415-add-strings) |
 | [0680-valid-palindrome-ii](https://github.com/aravind321o/DSA-solved-problems/tree/master/0680-valid-palindrome-ii) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aravind321o/DSA-solved-problems/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -139,6 +141,7 @@ solved problems of data structures and algorithms across many coding platforms
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/aravind321o/DSA-solved-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0415-add-strings](https://github.com/aravind321o/DSA-solved-problems/tree/master/0415-add-strings) |
 | [2155-find-missing-observations](https://github.com/aravind321o/DSA-solved-problems/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/aravind321o/DSA-solved-problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -185,4 +188,12 @@ solved problems of data structures and algorithms across many coding platforms
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aravind321o/DSA-solved-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Recursion
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/aravind321o/DSA-solved-problems/tree/master/0241-different-ways-to-add-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/aravind321o/DSA-solved-problems/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
